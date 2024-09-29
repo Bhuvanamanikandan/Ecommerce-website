@@ -89,7 +89,7 @@ const BestSellers = () => {
           ))}
         </Swiper>
       </div>
-    </div>
+    </div> 
   );
 };
 
